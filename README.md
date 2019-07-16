@@ -1,0 +1,2 @@
+# ogren
+ogrenmem icin
